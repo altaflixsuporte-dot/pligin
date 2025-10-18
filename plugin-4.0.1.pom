@@ -1,0 +1,6 @@
+<!-- https://mvnrepository.com/artifact/com.stringcare/plugin -->
+<dependency>
+    <groupId>com.stringcare</groupId>
+    <artifactId>plugin</artifactId>
+    <version>4.0.1</version>
+</dependency>
